@@ -1,20 +1,32 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=SAMARTH+BHANDAVALE+%7C+THE+ARCHITECT;TURNING+COMPLEXITY+INTO+YOUR+ADVANTAGE;WHERE+PERFORMANCE+MEETS+ABSOLUTE+PRECISION;I+DON'T+JUST+BUILD+SYSTEMS.+I+DEFINE+THE+SYSTEM.;ELITE+CODE.+LOUD+BASS.+ZERO+COMPROMISE." alt="Typing SVG" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-bhandavale)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sambhandavale15@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/u/sambhandavale15/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/daniel_ricciardo)
+</div>
+
+---
+
+### 🥷 The Arsenal (Skills)
+> "Precision is not an accident; it's a design choice."
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,js,ts,go,dart,postgres,mysql,mongodb,redis,sqlite,firebase,react,nextjs,nodejs,express,django,flask,fastapi,flutter,tensorflow,pytorch,sklearn,numpy,pandas,docker,aws,azure,jenkins,githubactions,git,ubuntu,postman,figma)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=sambhandavale&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sambhandavale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sambhandavale&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🛠️ Currently Engineering
+- 🔭 **Current Focus:** Scalable Microservices & High-Frequency Systems.
+- ⚡ **Obsession:** Low-latency performance and clean architecture.
+- 🎵 **Vibe:** Hard-hitting bass and zero-distraction deep work.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sambhandavale&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 Tactical Data (GitHub Stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sambhandavale&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sambhandavale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+<div align="center">
+  <p><b>LOOK, DON'T TOUCH?</b></p>
+  <img src="https://count.getloli.com/get/@sambhandavale?theme=gelbooru" />
+</div>
