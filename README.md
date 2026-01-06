@@ -1,3 +1,6 @@
+![tumblr_54805606e41234da265775f4ee8631ef_c86995dd_1280](https://github.com/user-attachments/assets/ebf7f089-aa5f-4bd7-b167-44bd53e4bfe6)
+
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=SAMARTH+BHANDAVALE+%7C+THE+ARCHITECT;TURNING+COMPLEXITY+INTO+YOUR+ADVANTAGE;WHERE+PERFORMANCE+MEETS+ABSOLUTE+PRECISION;I+DON'T+JUST+BUILD+SYSTEMS.+I+DEFINE+THE+SYSTEM.;ELITE+CODE.+LOUD+BASS.+ZERO+COMPROMISE." alt="Typing SVG" />
 
