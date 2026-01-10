@@ -8,7 +8,7 @@
 ### 🥷 The Arsenal (Skills)
 > "Precision is not an accident; it's a design choice."
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,js,ts,go,dart,postgres,mysql,mongodb,redis,sqlite,firebase,react,nextjs,nodejs,express,django,flask,fastapi,flutter,tensorflow,pytorch,sklearn,numpy,pandas,docker,aws,azure,jenkins,githubactions,git,ubuntu,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,js,ts,go,dart,postgres,mysql,mongodb,redis,sqlite,firebase,react,nextjs,nodejs,express,django,flask,fastapi,flutter,tensorflow,pytorch,sklearn,docker,aws,azure,jenkins,githubactions,git,ubuntu,postman,figma)](https://skillicons.dev)
 
 ---
 
