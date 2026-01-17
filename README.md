@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=SAMARTH+BHANDAVALE+%7C+THE+ARCHITECT;TURNING+COMPLEXITY+INTO+YOUR+ADVANTAGE;WHERE+PERFORMANCE+MEETS+ABSOLUTE+PRECISION;I+DON'T+JUST+BUILD+SYSTEMS.+I+DEFINE+THE+SYSTEM.;ELITE+CODE.+LOUD+BASS.+ZERO+COMPROMISE." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=SAMARTH+BHANDAVALE+%7C+SOFTWARE+ENGINEER;FOUNDING+ENGINEER;DEVELOPING+INTELLIGENT+SYSTEMS+AND+MOBILE+APPS;FOCUSED+ON+PERFORMANCE+AND+SYSTEM+ARCHITECTURE;ALWAYS+BUILDING.+ALWAYS+LEARNING." alt="Typing SVG" />
 
 </div>
 
